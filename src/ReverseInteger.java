@@ -9,7 +9,7 @@
  * version: 2020.12.26
  */
 
-class Solution {
+class ReverseInteger {
     public int reverse(int x) {
         int reverse = 0;
         while (x != 0) {
